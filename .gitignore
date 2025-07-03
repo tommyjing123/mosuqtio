@@ -1,0 +1,6 @@
+*.record
+*.jpg
+*.txt
+images/
+labels/
+__pycache__/
